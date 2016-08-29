@@ -1,5 +1,5 @@
-var app = angular.module('app', []);
+let app = angular.module("app", []);
 
-app.controller('MainCtrl', function($scope) {
-  $scope.name = 'World';
+app.controller("MainCtrl", ($scope) => {
+  $scope.name = "World";
 });

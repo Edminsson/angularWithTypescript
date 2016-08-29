@@ -6,3 +6,4 @@ Following the Pluralsight video "Play by Play Angular with Typescript".
 - Created src folder for typescript files and a tsconfig file that configures typescript.
 - Added an extra tsd.d.ts file to point to the other one in the typings folder.
 - Added a task in Code to build typescript directly from the editor (https://code.visualstudio.com/docs/languages/typescript)
+- Testar att installera tslint via npm samt tslint som extension i VS Code. Lägger till tslint.json. Startar om och tslint är igång direkt i editorn.
