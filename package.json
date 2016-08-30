@@ -1,0 +1,23 @@
+{
+  "name": "angularwithtypescript",
+  "version": "1.0.0",
+  "description": "Following the Pluralsight video \"Play by Play Angular with Typescript\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edminsson/angularWithTypescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edminsson/angularWithTypescript/issues"
+  },
+  "homepage": "https://github.com/Edminsson/angularWithTypescript#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-path": "^3.0.3"
+  }
+}
